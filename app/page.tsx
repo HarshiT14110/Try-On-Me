@@ -13,8 +13,8 @@ export default function Home() {
     <main className="min-h-screen bg-background">
       <ScrollExpandMedia
         mediaType="video"
-        mediaSrc="/images/BG-VIDEO.mp4"
-        bgImageSrc="/images/BG-IMAGE.png"
+        mediaSrc="D:\Try-On me\Image\BG-VIDEO.mp4"
+        bgImageSrc="D:\Try-On me\Image/images/BG-IMAGE.png"
         title="Basic to boujee"
         date="Luxury Redefined"
         scrollToExpand="Scroll to explore"
